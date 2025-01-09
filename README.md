@@ -20,9 +20,11 @@ I’ve expanded my technical capabilities through home projects to deepen my und
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | GRC Simulated Audit and Risk Assessment       | SOC Automation Lab|
+| Deploying Taylored LLM with Ollama and Open-Web-UI |Ollama RAG ChatBot|
+| Deployed/Maintained Public Server       | Java-Paper-MC-Server|
+| Remote Container Deployment via Docker       | Java-Paper-MC-Server|
 </div>
 
 ## Tools
