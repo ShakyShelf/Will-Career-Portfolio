@@ -64,3 +64,5 @@ I’ve expanded my technical capabilities through home projects to deepen my und
 - Detection Lab
 - SOC Automation Project
 - Simulated Network Risk Assessment and GRC NIST/ISO127001 Audit.
+- Java-Paper-MC-Server
+- Ollama RAG Chatbot
