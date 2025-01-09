@@ -1,4 +1,4 @@
-# Hello, my name isw Will Crooks
+# Hello, my name is Will Crooks
 <a href="www.linkedin.com/in/will-crooks-96883184"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
