@@ -22,7 +22,6 @@ I’ve expanded my technical capabilities through home projects to deepen my und
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 | GRC Simulated Audit and Risk Assessment       | SOC Automation Lab|
 </div>
 
